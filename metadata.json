@@ -1,0 +1,12 @@
+{
+  "name": "AccessAI",
+  "description": "Navigate the world with confidence — AI-powered accessibility intelligence layer for real-world navigation and discovery.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
